@@ -1,4 +1,4 @@
-//http://www.spoj.com/problems/WORDS1/
+//http://www.spoj.com/problems/WORDS1/    [0.05s, 3.1MB]
 #include <stdio.h>
 #include <string.h>
 
